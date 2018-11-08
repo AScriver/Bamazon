@@ -1,4 +1,4 @@
-#Bamazon
+# Bamazon
 
 ### Customer and Manager workflow example:
 https://youtu.be/_NWYV8vH2N0
